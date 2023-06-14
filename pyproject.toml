@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "data-eng"
+version = "0.1.0"
+description = "analytics util"
+authors = ["Binay P Jena <binay.bapu@gmail.com>"]
+readme = "README.md"
+packages = [{include = "python"}]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
