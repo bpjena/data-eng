@@ -35,7 +35,7 @@ $ make env-up
 ## data processing
 - `spark`
 
-## transformations | data modeling
+## transformations | dimension modeling | materializations
 - `dbt-core`
 
 ## observability | monitoring | data-quality
