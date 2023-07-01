@@ -21,15 +21,23 @@ $ make env-up
   - [workspace](https://www.google.com/) 
   - [CLI access]()
   - _ref :_ [instructions]() **|** [setup manual]()
-- `mage.ai` reach out to team for `***.pem` file
+- `mage.ai` host details / reach out for `***.pem` file
+
+## data store | warehouse
+- `BigQuery`
+- `MongoDB`
+- `PostgreSQL`
+
+## visualization | consumption
+- `mode`
+- `preset`
 
 ## data processing
 - `spark`
 
 ## transformations | data modeling
 - `dbt-core`
-- `BigQuery`
 
-## visualization | consumption
-- `mode`
+## observability | monitoring | data-quality
+- `metaplane`
 - 
