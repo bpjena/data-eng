@@ -8,15 +8,14 @@ Pre-Requisites :
 ```
 $ make env-up
 ```
+
 ## Documentation
 - `lucidchart`[Architectural Overview](https://lucid.app/lucidchart/59c3dcbf-56ca-4323-810f-c293797bc957/edit?viewport_loc=-11%2C-11%2C2172%2C1045%2C0_0&invitationId=inv_926d6cf8-30ee-4567-b82d-092fba460f57)
 
 ## cloud platform | hosting
 - `GCP`
 
-
 ## scheduler | job orchestration | ELT
-
 - `prefect` 
   - [workspace](https://www.google.com/) 
   - [CLI access]()
@@ -34,10 +33,12 @@ $ make env-up
 
 ## data processing
 - `spark`
+- `DuckDB`
 
-## transformations | dimension modeling | materializations
+## transformations | dimension modeling | materialization
 - `dbt-core`
 
 ## observability | monitoring | data-quality
 - `metaplane`
-- 
+- `soda`
+- `great-expectations`
